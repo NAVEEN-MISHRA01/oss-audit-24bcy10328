@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: [Your Name] | Course: Open Source Software
+# Author: [Naveen Kumar Mishra] | Course: Open Source Software
 # --- Variables ---
-STUDENT_NAME="" # Fill in your name
-SOFTWARE_CHOICE="" # Fill in your chosen software
+STUDENT_NAME="Naveen Kumar Mishra" # Fill in your name
+SOFTWARE_CHOICE="Git" # Fill in your chosen software
 # --- System info ---
 KERNEL=$(uname -r)
 USER_NAME=$(whoami)
